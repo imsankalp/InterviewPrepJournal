@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(/usr/local/bin/npm install:*)",
+      "Read(//usr/local/bin/**)",
+      "Read(//Users/sankalpsingh/.nvm/versions/node/**)",
+      "Bash(/Users/sankalpsingh/.nvm/versions/node/v22.21.1/bin/npm install:*)",
+      "Bash(export PATH=\"$HOME/.nvm/versions/node/v22.21.1/bin:$PATH\")",
+      "Bash(npm --version)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
